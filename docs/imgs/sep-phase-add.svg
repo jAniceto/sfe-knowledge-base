@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="80.465889mm"
+   height="37.384178mm"
+   viewBox="0 0 80.465889 37.384178"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <marker
+       style="overflow:visible"
+       id="marker4"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path4" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="ConcaveTriangle"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path7" />
+    </marker>
+  </defs>
+  <g
+     id="layer1"
+     transform="translate(-112.43235,-22.850182)">
+    <g
+       id="g23">
+      <rect
+         style="font-variation-settings:'wght' 700;fill:none;stroke:#000000;stroke-width:0.7;stroke-linecap:square"
+         id="rect7"
+         width="28.535294"
+         height="14.752941"
+         x="139.76471"
+         y="34.164719" />
+      <text
+         xml:space="preserve"
+         style="font-size:5.64444px;line-height:1;font-family:Playfair;-inkscape-font-specification:'Playfair, @wght=700';font-variation-settings:'wght' 700;text-align:end;writing-mode:lr-tb;direction:ltr;text-anchor:end;fill:none;stroke:#000000;stroke-width:0.700001;stroke-linecap:square"
+         x="154.10539"
+         y="40.599274"
+         id="text9"><tspan
+           id="tspan8"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444px;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.700001"
+           x="154.10539"
+           y="40.599274">Phase</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444px;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.700001"
+           x="154.10539"
+           y="46.457363"
+           id="tspan9">addition</tspan></text>
+      <path
+         style="fill:#000000;stroke:#000000;stroke-width:0.7;stroke-linecap:square;marker-end:url(#ConcaveTriangle)"
+         d="m 22.905882,85.605881 c 0,0 22.711763,0 22.711763,0"
+         id="path9"
+         transform="translate(89.876471,-47.170588)" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93889px;line-height:1;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.7;stroke-linecap:square"
+         x="124.62353"
+         y="36.300003"
+         id="text10"><tspan
+           id="tspan10"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;stroke:none;stroke-width:0.7"
+           x="124.62353"
+           y="36.300003">Feed</tspan></text>
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.7;stroke-linecap:square;marker-end:url(#marker4)"
+         d="m 80.364705,78.811765 c 0,0 0,-5.435296 0,-5.435296 0,0 23.876475,0 23.876475,0"
+         id="path10"
+         transform="translate(84.247059,-45.035294)" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.7;stroke-linecap:square;marker-end:url(#marker4)"
+         d="m 80.364705,78.811765 c 0,0 0,-5.435296 0,-5.435296 0,0 23.876475,0 23.876475,0"
+         id="path11"
+         transform="matrix(1,0,0,-1,84.247059,127.86647)" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93889px;line-height:1;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.7;stroke-linecap:square"
+         x="177.35844"
+         y="26.400009"
+         id="text11"><tspan
+           id="tspan11"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;stroke:none;stroke-width:0.7"
+           x="177.35844"
+           y="26.400009">Phase1</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93889px;line-height:1;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.7;stroke-linecap:square"
+         x="177.03529"
+         y="60.176483"
+         id="text12"><tspan
+           id="tspan12"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;stroke:none;stroke-width:0.7"
+           x="177.03529"
+           y="60.176483">Phase 2</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93889px;line-height:1;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.7;stroke-linecap:square"
+         x="124.46075"
+         y="49.796402"
+         id="text17"><tspan
+           id="tspan17"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;stroke:none;stroke-width:0.7"
+           x="124.46075"
+           y="49.796402">MSA</tspan></text>
+      <path
+         style="fill:#000000;stroke:#000000;stroke-width:0.7;stroke-linecap:square;marker-end:url(#ConcaveTriangle)"
+         d="m 22.905882,85.605881 c 0,0 22.711763,0 22.711763,0"
+         id="path20"
+         transform="translate(89.876471,-41.268326)" />
+    </g>
+  </g>
+</svg>

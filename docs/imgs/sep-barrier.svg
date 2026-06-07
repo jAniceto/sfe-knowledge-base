@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="62.770699mm"
+   height="38.639065mm"
+   viewBox="0 0 62.770699 38.639065"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <marker
+       style="overflow:visible"
+       id="marker65"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path65" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker4"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path4" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="ConcaveTriangle"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path7" />
+    </marker>
+  </defs>
+  <g
+     id="layer1"
+     transform="translate(-135.95107,-81.771756)">
+    <g
+       id="g65">
+      <rect
+         style="font-variation-settings:'wght' 700;fill:none;stroke:#000000;stroke-width:0.7;stroke-linecap:square"
+         id="rect52"
+         width="28.535294"
+         height="14.752941"
+         x="145.58824"
+         y="94.341179" />
+      <text
+         xml:space="preserve"
+         style="font-size:5.64444px;line-height:1;font-family:Playfair;-inkscape-font-specification:'Playfair, @wght=700';font-variation-settings:'wght' 700;text-align:end;writing-mode:lr-tb;direction:ltr;text-anchor:end;fill:none;stroke:#000000;stroke-width:0.700001;stroke-linecap:square"
+         x="159.92892"
+         y="100.77573"
+         id="text54"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444px;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.700001"
+           x="159.92892"
+           y="100.77573"
+           id="tspan54">Solid</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444px;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.700001"
+           x="159.92892"
+           y="106.63381"
+           id="tspan62">agent</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93889px;line-height:1;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.7;stroke-linecap:square"
+         x="149.25194"
+         y="85.307114"
+         id="text55"><tspan
+           id="tspan55"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;stroke:none;stroke-width:0.7"
+           x="149.25194"
+           y="85.307114">Feed</tspan></text>
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.7;stroke-linecap:square;marker-end:url(#marker4)"
+         d="m 80.364705,78.811765 c 0,0 0,-5.435296 0,-5.435296 0,0 23.876475,0 23.876475,0"
+         id="path56"
+         transform="matrix(1,0,0,-1,90.070588,188.04294)" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93889px;line-height:1;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.7;stroke-linecap:square"
+         x="184.56032"
+         y="100.53952"
+         id="text56"><tspan
+           id="tspan56"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;stroke:none;stroke-width:0.7"
+           x="184.56032"
+           y="100.53952">Phase1</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93889px;line-height:1;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.7;stroke-linecap:square"
+         x="182.85883"
+         y="120.35294"
+         id="text57"><tspan
+           id="tspan57"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;stroke:none;stroke-width:0.7"
+           x="182.85883"
+           y="120.35294">Phase 2</tspan></text>
+      <path
+         style="fill:#000000;stroke:#000000;stroke-width:0.80126;stroke-linecap:square;marker-end:url(#ConcaveTriangle)"
+         d="m 22.905882,85.605881 c 0,0 22.711763,0 22.711763,0"
+         id="path62"
+         transform="matrix(0.87362432,0,0,0.87362432,154.45908,27.568711)" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.7;stroke-linecap:square;stroke-dasharray:none;stroke-dashoffset:0;marker-end:url(#marker65)"
+         d="m 136.30107,87.352633 c 0,0 23.88358,0 23.88358,0 0,0 0,2.478808 0,2.478808"
+         id="path64" />
+    </g>
+  </g>
+</svg>

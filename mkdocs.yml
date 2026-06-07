@@ -1,0 +1,46 @@
+site_name: SFE Knowledge Base
+site_url: https://janiceto.github.io/sfe-knowledge-base
+repo_url: https://github.com/janiceto/sfe-knowledge-base
+
+theme:
+  name: material
+  palette:
+    primary: green
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.path
+    - navigation.prune
+    - navigation.indexes
+    - toc.follow
+    - navigation.top
+    - navigation.footer
+    - search.suggest
+    - search.highlight
+    - content.action.edit
+plugins:
+  - search
+
+markdown_extensions:
+  - tables
+  - pymdownx.arithmatex:
+      generic: true
+
+extra_javascript:
+  - javascripts/mathjax.js
+  - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
+
+nav:
+  - Home: 'index.md'
+  - Introduction:
+    - Extraction: intro/extraction.md 
+    - Supercritical fluids: intro/supercritical-fluids.md 
+    - SFE process: intro/sfe-process.md
+  - Modeling:
+    - Carbon dioxide: modeling/carbon-dioxide-properties.md
+    - Solubility: modeling/solubility.md
+    - Peleg model: modeling/peleg.md
+    - Broken Intact Cells model: modeling/bic-model.md
+  - Industrial application:
+    - Scale-up: industrial/scale-up.md
+    - Economic analysis: industrial/economics.md
