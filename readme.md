@@ -9,3 +9,14 @@ Access the website [here](https://janiceto.github.io/sfe-knowledge-base).
 ```
 $ mkdocs serve --livereload
 ```
+
+## Contribution
+
+Contributions are welcome. If you want to suggest improvements, add content, or fix issues:
+
+- Open an issue for corrections, clarifications, or new topics.
+- Submit a pull request with your proposed changes.
+
+## License
+
+This project is licensed under the terms of the MIT License. See the [LICENSE](LICENSE) file for details.
