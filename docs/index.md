@@ -16,5 +16,5 @@ A Knowledge Base on supercritical fluids and supercritical fluid extraction.
     - [Broken plus Intact Cells model](modeling/bic-model.md)
 
 - [Industrial applications](industrial/scale-up.md)
-    - [# Scale-up SFE processes](industrial/scale-up.md)
+    - [Scale-up SFE processes](industrial/scale-up.md)
     - [Economic analysis of SFE processes](industrial/economics.md)
