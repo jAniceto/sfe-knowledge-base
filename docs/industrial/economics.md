@@ -21,6 +21,6 @@ $$
 $$
 
 
-## References: 
+## References
 
 - [Supercritical fluid extraction of vegetable matrices: Applications, trends and future perspectives of a convincing green technology](https://dx.doi.org/10.1016/j.supflu.2014.04.007)

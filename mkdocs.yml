@@ -22,6 +22,8 @@ plugins:
   - search
 
 markdown_extensions:
+  - toc:
+      permalink: true
   - tables
   - pymdownx.arithmatex:
       generic: true
