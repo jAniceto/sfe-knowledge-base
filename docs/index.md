@@ -12,9 +12,22 @@ A Knowledge Base on supercritical fluids and supercritical fluid extraction.
 - [Modeling](modeling/carbon-dioxide-properties.md)
     - [Carbon dioxide property calculations](modeling/carbon-dioxide-properties.md)
     - [Solubility in supercritical carbon dioxide](modeling/solubility.md)
-    - [Peleg model](modeling/peleg.md)
-    - [Broken plus Intact Cells model](modeling/bic-model.md)
+    - [Empirical models](modeling/empirical/peleg.md)
+        - [Peleg model](modeling/empirical/peleg.md)
+    - [Phenomenological models](modeling/empirical/bic-model.md)
+        - [Broken plus Intact Cells model](modeling/empirical/bic-model.md)
 
 - [Industrial applications](industrial/scale-up.md)
     - [Scale-up SFE processes](industrial/scale-up.md)
     - [Economic analysis of SFE processes](industrial/economics.md)
+
+
+## Other Knowledge Bases
+
+- [Programming Notes](https://janiceto.github.io/programming-notes/)
+- [Machine Learning](https://janiceto.github.io/ml-knowledge-base/)
+
+
+## Author
+
+Created by [José Aniceto](https://sweet.ua.pt/joseaniceto/). You can get in touch at [&#x6a;&#x6f;&#x73;&#x65;&#x61;&#x6e;&#x69;&#x63;&#x65;&#x74;&#x6f;&#x40;&#x75;&#x61;&#x2e;&#x70;&#x74;](mailto:&#x6a;&#x6f;&#x73;&#x65;&#x61;&#x6e;&#x69;&#x63;&#x65;&#x74;&#x6f;&#x40;&#x75;&#x61;&#x2e;&#x70;&#x74;).

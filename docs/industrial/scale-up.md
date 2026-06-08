@@ -15,6 +15,6 @@ Supercritical Fluid Extraction (SFE) scale-up should obey rules regarding geomet
 Even adhering by this criteria, results at lab scale may not be confirmed at higher scales due to phenomena that may be negligible at small scale but become important at large scale, such as the **aggregation of biomass** and **channeling**.
 
 
-## References: 
+## References 
 
 - [Supercritical fluid extraction of vegetable matrices: Applications, trends and future perspectives of a convincing green technology](https://dx.doi.org/10.1016/j.supflu.2014.04.007)

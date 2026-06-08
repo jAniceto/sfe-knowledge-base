@@ -6,8 +6,10 @@ theme:
   name: material
   palette:
     primary: green
+  # font:
+  #   text: Roboto Slab
   features:
-    - navigation.tabs
+    # - navigation.tabs
     - navigation.sections
     - navigation.path
     - navigation.prune
@@ -41,8 +43,10 @@ nav:
   - Modeling:
     - Carbon dioxide: modeling/carbon-dioxide-properties.md
     - Solubility: modeling/solubility.md
-    - Peleg model: modeling/peleg.md
-    - Broken Intact Cells model: modeling/bic-model.md
+    - Empirical models:
+      - Peleg model: modeling/empirical/peleg.md
+    - Phenomenological models: 
+      - Broken Intact Cells model: modeling/phenomenological/bic-model.md
   - Industrial application:
     - Scale-up: industrial/scale-up.md
     - Economic analysis: industrial/economics.md
