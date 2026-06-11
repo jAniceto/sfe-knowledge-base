@@ -14,8 +14,8 @@ A Knowledge Base on supercritical fluids and supercritical fluid extraction.
     - [Solubility in supercritical carbon dioxide](modeling/solubility.md)
     - [Empirical models](modeling/empirical/peleg.md)
         - [Peleg model](modeling/empirical/peleg.md)
-    - [Phenomenological models](modeling/empirical/bic-model.md)
-        - [Broken plus Intact Cells model](modeling/empirical/bic-model.md)
+    - [Phenomenological models](modeling/phenomenological/bic-model.md)
+        - [Broken plus Intact Cells model](modeling/phenomenological/bic-model.md)
 
 - [Industrial applications](industrial/scale-up.md)
     - [Scale-up SFE processes](industrial/scale-up.md)
@@ -25,6 +25,7 @@ A Knowledge Base on supercritical fluids and supercritical fluid extraction.
 ## Other Knowledge Bases
 
 - [Programming Notes](https://janiceto.github.io/programming-notes/)
+- [Chromatography and adsorption](https://janiceto.github.io/chrom-knowledge-base/)
 - [Machine Learning](https://janiceto.github.io/ml-knowledge-base/)
 
 
