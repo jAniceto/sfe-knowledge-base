@@ -23,4 +23,4 @@ A. Mulero, I. Cachadiña, and M. I. Parra. Recommended Correlations for the Surf
 
 ## References
 
-- [CoolProp Docs](https://coolprop.org/fluid_properties/fluids/CarbonDioxide.html)
+- [CoolProp Docs](https://coolprop.org/fluid_properties/fluids/CarbonDioxide.html)[@CoolProp]

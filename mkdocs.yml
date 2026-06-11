@@ -22,8 +22,11 @@ theme:
     - content.action.edit
 plugins:
   - search
+  - bibtex:
+      bib_file: 'docs/refs.bib'
 
 markdown_extensions:
+  - footnotes
   - toc:
       permalink: true
   - tables
@@ -44,7 +47,12 @@ nav:
     - Carbon dioxide: modeling/carbon-dioxide-properties.md
     - Solubility: modeling/solubility.md
     - Empirical models:
+      - 'modeling/empirical/index.md'
       - Peleg model: modeling/empirical/peleg.md
+    - Simplified models: 
+      - 'modeling/simplified/index.md'
+      - Diffusion model: 'modeling/simplified/diffusion-model.md'
+      - BET model: 'modeling/simplified/bet-model.md'
     - Phenomenological models: 
       - Broken Intact Cells model: modeling/phenomenological/bic-model.md
   - Industrial application:

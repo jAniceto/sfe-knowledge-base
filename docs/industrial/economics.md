@@ -1,6 +1,6 @@
 # Economic analysis of SFE processes
 
-SFE processes are often evaluated using the cost of manufacturing ($\text{COM}$) approach of Turton et al. 
+SFE processes are often evaluated using the cost of manufacturing ($\text{COM}$) approach of Turton et al.[@DeMelo2014]
 
 $$
 \text{COM} = 0.304 \text{FCI} + 2.73 \text{COL} + 1.23 (\text{CUT} + \text{CWT} + \text{CRM})
@@ -20,7 +20,3 @@ $$
 \text{Annual Net Income} = \text{Annual Revenue} - \text{COM}
 $$
 
-
-## References
-
-- [Supercritical fluid extraction of vegetable matrices: Applications, trends and future perspectives of a convincing green technology](https://dx.doi.org/10.1016/j.supflu.2014.04.007)

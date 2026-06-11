@@ -4,7 +4,7 @@ It is common practice to simplify the calculation approach either by considering
 
 ## Chrastil correlation
 
-Based on the principle that solvation complexes solute-solvent exist under equilibrium, so that the solubility ($y_i^*$) is a function of solvent density and temperature.
+Based on the principle that solvation complexes solute-solvent exist under equilibrium, so that the solubility ($y_i^*$) is a function of solvent density and temperature.[@DeMelo2014]
 
 $$
 y_i^* = \rho_\text{f}^{k_1} \exp \left( \frac{a}{T} + b \right)
@@ -21,7 +21,7 @@ where:
 
 ## Del Valle and Aguilera modification
 
-Introduces a temperature dependence on the heat of vaporization of solute.
+Introduces a temperature dependence on the heat of vaporization of solute.[@DeMelo2014]
 
 $$
 y_i^* = \rho_\text{f}^{k_1} \exp \left( \frac{c}{T^2} + \frac{a}{T} + b \right)
@@ -35,8 +35,3 @@ This expression was correlated by the authors with solubility data of vegetable 
 - c = 2,186,840, 
 
 for $T$ in $\text{K}$, and $y_i^*$ and $\rho_\text{f}$ in $\text{kg } \text{m}^{-3}$.
-
-
-## References
-
-- [Supercritical fluid extraction of vegetable matrices: Applications, trends and future perspectives of a convincing green technology](https://dx.doi.org/10.1016/j.supflu.2014.04.007)
