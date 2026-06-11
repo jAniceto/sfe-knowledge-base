@@ -12,9 +12,11 @@ A Knowledge Base on supercritical fluids and supercritical fluid extraction.
 - [Modeling](modeling/carbon-dioxide-properties.md)
     - [Carbon dioxide property calculations](modeling/carbon-dioxide-properties.md)
     - [Solubility in supercritical carbon dioxide](modeling/solubility.md)
-    - [Empirical models](modeling/empirical/peleg.md)
+    - [Empirical models](modeling/empirical/index.md)
         - [Peleg model](modeling/empirical/peleg.md)
-    - [Phenomenological models](modeling/phenomenological/bic-model.md)
+    - [Mechanistic models](modeling/mechanistic/index.md)
+        - [Simplified models](modeling/mechanistic/simplified.md)
+        - [BET model](modeling/mechanistic/bet-model.md)
         - [Broken plus Intact Cells model](modeling/phenomenological/bic-model.md)
 
 - [Industrial applications](industrial/scale-up.md)
