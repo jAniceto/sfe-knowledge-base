@@ -35,3 +35,12 @@ This expression was correlated by the authors with solubility data of vegetable 
 - c = 2,186,840, 
 
 for $T$ in $\text{K}$, and $y_i^*$ and $\rho_\text{f}$ in $\text{kg } \text{m}^{-3}$.
+
+
+## Chrastil modification for cosolvent 
+
+$$
+y_i^* = \rho_\text{f}^{k} y_\text{cosolv}^{k'} \exp \left( \frac{a}{T} + b \right)
+$$
+
+where $y_\text{cosolv}$ is the cosolvent mass concentration and $k'$ is the cosolvent association number.
