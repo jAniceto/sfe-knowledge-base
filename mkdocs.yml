@@ -44,17 +44,16 @@ nav:
     - Supercritical fluids: intro/supercritical-fluids.md 
     - SFE process: intro/sfe-process.md
   - Modeling:
-    - Carbon dioxide: modeling/carbon-dioxide-properties.md
+    - SC-CO2 properties: modeling/carbon-dioxide-properties.md
     - Solubility: modeling/solubility.md
     - Empirical models:
       - 'modeling/empirical/index.md'
       - Peleg model: modeling/empirical/peleg.md
+    - Simplified models: 'modeling/mechanistic/simplified.md'
     - Mechanistic models: 
       - 'modeling/mechanistic/index.md'
-      - 'modeling/mechanistic/simplified.md'
       - BET model: 'modeling/mechanistic/bet-model.md'
-    - Phenomenological models: 
-      - Broken Intact Cells model: modeling/phenomenological/bic-model.md
+      - Broken Intact Cells model: modeling/mechanistic/bic-model.md
   - Industrial application:
     - Scale-up: industrial/scale-up.md
     - Economic analysis: industrial/economics.md
