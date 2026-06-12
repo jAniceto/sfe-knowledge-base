@@ -6,9 +6,19 @@ Access the website [here](https://janiceto.github.io/sfe-knowledge-base).
 
 ## Usage
 
+To set up development server:
+
 ```
 $ mkdocs serve --livereload
 ```
+
+To manually deploy to Github Pages:
+
+```
+$ mkdocs gh-deploy --force
+```
+
+or set up the Github Action from [.github/workflows/github-pages-deploy.yml](https://github.com/jAniceto/sfe-knowledge-base/blob/main/.github/workflows/github-pages-deploy.yml)
 
 ## Contribution
 
