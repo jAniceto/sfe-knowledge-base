@@ -19,3 +19,12 @@ $$
 $$
 
 where $K$ is a fitted parameters related to the rate of extraction.
+
+
+## Logistic model
+
+$$
+\psi = \frac{x_0}{\exp(b \ t_\text{m})} \left( \frac{1 + \exp(b \ t_\text{m})}{1 + \exp \left[ \exp(b \ (t_\text{m} - t)) \right]} - 1 \right)
+$$
+
+where $b$ and $t_\text{m}$ are the two model parameters.
